@@ -1,7 +1,7 @@
 import java.io.Console;
 import java.util.Scanner;
 
-public class kazuate {
+public class Kazuate {
     public static void main(String[] args) {
         Console console = System.console();
         int answer = -1;
